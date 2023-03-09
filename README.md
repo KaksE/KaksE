@@ -1,6 +1,4 @@
 ![technology-binary-number-programming-wallpaper-1600x480_68](https://user-images.githubusercontent.com/88621342/202923774-e8529a32-8047-4fad-98e0-71b550230481.jpg)
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Abdul-Wahab.</h1>
-<h3 align="center">Just a tech.</h3>
 
 # 🏄‍♂️ KAKUNGULU ERIEZA
 
@@ -57,11 +55,7 @@ I have gained command of different programming languages such as C, C++, Java, P
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=KaksE&theme=gruvbox&border_radius=4.5) -->
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=KaksE&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="KaksE" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=KaksE&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true" alt="KaksE" />
+<div align="left">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaksE&border=D3D3D3&sideNums=7A7ADB&background=130F40&stroke=6842DB&currStreakNum=7A7ADB&ring=5B3CDD&fire=D3D351&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=A3A3A3" />
 
