@@ -4,6 +4,23 @@
 
 **`Software Engineer | Data Scientist | Technologist | IT Specialist | IoT | Web 3 | Blockchain Dev | Cyber Security`**
 
+<div style="display:flex">
+  <img align="right" alt="coding_img" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+  </p>
+
+- 🔭 I’m currently working on [foodie](https://github.com/BlackDagger007/foodie)
+
+- 🌱 I’m currently learning **Data Science**
+
+- 👯 I’m looking to collaborate on **Flutter projects**
+
+- 💬 Ask me about **flutter, firebase, nodejs**
+
+- 📫 How to reach me **kaksgates2002@gmail.com**
+
+- 🐍 `print(random.choice(dev_quote))`
+</div>
+
 I solve problems in creative ways. At Kyambogo University, where I am completing my Bachelor's Degree in Information Systems, I have learned the importance of applying classical strategies to modern-day projects.
 
 I am formidable technologist dedicated to building and evangelizing technologies, systems and networks that generate hyperlocal resilience, self sustainability and dynamism. 
