@@ -8,13 +8,11 @@
   <img align="right" alt="coding_img" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
   </p>
 
-- 🔭 I’m currently working on [foodie](https://github.com/BlackDagger007/foodie)
-
 - 🌱 I’m currently learning **Data Science**
 
-- 👯 I’m looking to collaborate on **Flutter projects**
+- 👯 I’m looking to collaborate on **Python projects**
 
-- 💬 Ask me about **flutter, firebase, nodejs**
+- 💬 Ask me about **Python,Java, Javascript, C, firebase, nodejs**
 
 - 📫 How to reach me **kaksgates2002@gmail.com**
 
@@ -72,11 +70,6 @@ I have gained command of different programming languages such as C, C++, Java, P
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=KaksE&theme=gruvbox&border_radius=4.5) -->
 
-<div align="left">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KaksE&border=D3D3D3&sideNums=7A7ADB&background=130F40&stroke=6842DB&currStreakNum=7A7ADB&ring=5B3CDD&fire=D3D351&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=A3A3A3" />
-
-</div>
 
 #
 
